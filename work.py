@@ -9,3 +9,11 @@ def sub(a,b):
 print('multiplication')
 def multi(x,y):
     return x*y
+
+
+def div(x,y):
+    return x/y
+
+
+def mul(a,b):
+    return a*b
